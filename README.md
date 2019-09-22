@@ -11,7 +11,7 @@ Arduino program to spell out Stranger Things words with an addressable LED strin
 
 ## Setup Hardware
 
-## Print Spooky Font
+## Spooky Font
 
 [Something Strange](http://www.dafont.com/something-strange.font) from Dafont.
 
@@ -19,7 +19,7 @@ Arduino program to spell out Stranger Things words with an addressable LED strin
 
 Download [FastLED](http://fastled.io/), which is an Arduino library for programming addressable LED stripes, such as the WS2811.
 
-Download and upload stranger_things.imo to Arduino.
+Download and upload stranger_things.ino to Arduino.
 
 ## Acknowledgments
 
